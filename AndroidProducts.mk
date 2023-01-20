@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_k71v1_64_bsp.mk
+     $(LOCAL_DIR)/twrp_k71v1_64_bsp.mk

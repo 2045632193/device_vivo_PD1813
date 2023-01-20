@@ -1,0 +1,5 @@
+ro.product.brand=Vivo
+ro.product.name=k71v1_64_bsp
+ro.product.device=k71v1_64_bsp
+ro.build.product=k71v1_64_bsp
+ro.treble.enabled=true
